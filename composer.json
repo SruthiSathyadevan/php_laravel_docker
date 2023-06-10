@@ -1,0 +1,20 @@
+{
+    "name": "root/html",
+    "description": "Chat app",
+    "type": "project",
+    "require": {
+        "laravel/laravel": "^10.2.3",
+        "laravel/ui": "^4.2",
+        "laravel/framework": "^10.13.5"
+    },
+    "extra": {
+        "npm": {
+            "fullcalendar": "3.4.0"
+        }
+    },
+    "authors": [
+        {
+            "name": "ayundina"
+        }
+    ]
+}
